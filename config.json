@@ -1,0 +1,55 @@
+{
+    "unit": "imperial",
+    "theme": "dark",
+    "default_city": "London",
+    "last_location": {
+        "name": "Chennai",
+        "country": "India",
+        "admin1": "Tamil Nadu",
+        "latitude": 13.0895,
+        "longitude": 80.2739,
+        "timezone": "Asia/Kolkata",
+        "country_code": "IN"
+    },
+    "favorites": [
+        {
+            "name": "London",
+            "country": "United Kingdom",
+            "admin1": "England",
+            "latitude": 51.5085,
+            "longitude": -0.1257
+        },
+        {
+            "name": "New York",
+            "country": "United States",
+            "admin1": "New York",
+            "latitude": 40.7128,
+            "longitude": -74.006
+        },
+        {
+            "name": "Tokyo",
+            "country": "Japan",
+            "admin1": "Tokyo",
+            "latitude": 35.6895,
+            "longitude": 139.6917
+        },
+        {
+            "name": "Paris",
+            "country": "France",
+            "admin1": "Île-de-France",
+            "latitude": 48.8566,
+            "longitude": 2.3522
+        },
+        {
+            "name": "Sydney",
+            "country": "Australia",
+            "admin1": "New South Wales",
+            "latitude": -33.8688,
+            "longitude": 151.2093
+        }
+    ],
+    "auto_refresh_minutes": 30,
+    "api_provider": "open-meteo",
+    "openweathermap_api_key": "",
+    "cache_ttl_minutes": 20
+}
